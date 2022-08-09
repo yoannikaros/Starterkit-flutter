@@ -15,6 +15,12 @@
 // Color kTransparentColor = Colors.transparent;
 // Color kAvailableColor = Color(0xffE0D9FF);
 // Color kUnavailableColor = Color(0xffEBECF1);
+// Color backgroundColor1 = Color(0xff1F1D2B);
+// Color backgroundColor2 = Color(0xff2B2937);
+// Color backgroundColor3 = Color(0xff242231);
+// Color backgroundColor4 = Color(0xff252836);
+// Color backgroundColor5 = Color(0xff2B2844);
+// Color backgroundColor6 = Color(0xffECEDEF);
 
 // TextStyle blackTextStyle = GoogleFonts.poppins(
 //   color: kBlackColor,
