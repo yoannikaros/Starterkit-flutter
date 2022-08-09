@@ -1,0 +1,2 @@
+Buat model tinggal copy paste dari json ke dart : 
+https://javiercbk.github.io/json_to_dart/
