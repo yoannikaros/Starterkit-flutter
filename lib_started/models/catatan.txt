@@ -1,2 +1,16 @@
 Buat model tinggal copy paste dari json ke dart : 
 https://javiercbk.github.io/json_to_dart/
+
+contoh json:
+{
+    "data": [
+
+        {
+            "kode_item": "2552",
+            "barang": "Ultramen",
+            "jenis": "PCS",
+            "hargaumum": "2000",
+            "hargagrosir": "3000"
+        },
+            ]
+}
