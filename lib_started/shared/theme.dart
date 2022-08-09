@@ -4,6 +4,10 @@
 // double defaultMargin = 24.0;
 // double defaultRadius = 17.0;
 
+// Color primaryColor = Color(0xff6C5ECF);
+// Color secondaryColor = Color(0xff38ABBE);
+// Color alertColor = Color(0xffED6363);
+// Color priceColor = Color(0xff2C96F1);
 // Color kPrimaryColor = Color(0xff5C40CC);
 // Color kBlackColor = Color(0xff1F1449);
 // Color kWhiteColor = Color(0xffFFFFFF);
@@ -15,12 +19,14 @@
 // Color kTransparentColor = Colors.transparent;
 // Color kAvailableColor = Color(0xffE0D9FF);
 // Color kUnavailableColor = Color(0xffEBECF1);
+
 // Color backgroundColor1 = Color(0xff1F1D2B);
 // Color backgroundColor2 = Color(0xff2B2937);
 // Color backgroundColor3 = Color(0xff242231);
 // Color backgroundColor4 = Color(0xff252836);
 // Color backgroundColor5 = Color(0xff2B2844);
 // Color backgroundColor6 = Color(0xffECEDEF);
+
 
 // TextStyle blackTextStyle = GoogleFonts.poppins(
 //   color: kBlackColor,

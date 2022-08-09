@@ -1,6 +1,9 @@
 // import 'package:flutter/material.dart';
 // import 'dart:async';
-// import 'theme.dart';
+// import 'package:tokolina/shared/theme.dart';
+
+
+
 // class SplashPage extends StatefulWidget {
 //   const SplashPage({Key? key}) : super(key: key);
 
@@ -28,8 +31,8 @@
 //            mainAxisAlignment: MainAxisAlignment.center,
 //            children: [
 //              Text(
-//                  'TOKO LINA',
-//                  style: primaryTextStyle.copyWith(
+//                  'Yoan Nikaros',
+//                  style: whiteTextStyle.copyWith(
 //                    fontSize: 40,
 //                    fontWeight: FontWeight.bold,
 //                  )

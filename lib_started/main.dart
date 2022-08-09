@@ -1,8 +1,7 @@
-// import 'package:ebus/ui/pasges/bonus_page.dart';
-// import 'package:ebus/ui/pasges/get_started_page.dart';
-// import 'package:ebus/ui/pasges/sign_up_page.dart';
-// import 'package:ebus/ui/pasges/splash_page.dart';
 // import 'package:flutter/material.dart';
+// import 'package:tokolina/ui/main_pages.dart';
+// import 'package:tokolina/ui/splash.dart';
+// import 'shared/theme.dart';
 
 // void main() => runApp(MyApp());
 
@@ -15,12 +14,8 @@
 //       debugShowCheckedModeBanner: false,
 //       routes: {
 //         '/': (context) => SplashPage(),
-//         '/get-strated': (context) => GetStartedPage(),
-//         '/sign-up': (context) => SignUpPage(),
-//         '/bonus': (context) => BonusPage()
+//         '/main': (context) => MainPage(),
 //       },
-
 //     );
-
 //   }
 // }
