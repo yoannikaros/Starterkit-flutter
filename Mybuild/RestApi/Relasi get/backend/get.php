@@ -5,3 +5,5 @@ $data       = mysqli_query($connection, "SELECT * FROM note JOIN halaman USING(h
 $data       = mysqli_fetch_all($data, MYSQLI_ASSOC);
 
 echo json_encode(array('data' => $data));
+
+//memanggil relasi berupa id atau number
